@@ -5,7 +5,7 @@
 GreenGrocer/.env
 
 #pycacha in main folder
-GreenGrocer/__pycache__/
+GreenGrocer/GreenGrocer/__pycache__/
 
 #pycacha in api
 GreenGrocer/api/__pycache__/
