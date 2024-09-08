@@ -1,3 +1,37 @@
+#venv
 .venv/
 
-.env
+#Environment variables
+GreenGrocer/.env
+
+#pycacha
+GreenGrocer/__pycache__/
+
+#Logs
+GreenGrocer/logs/
+
+#Database
+GreenGrocer/db.sqlite3
+
+#Docker
+GreenGrocer/.dockerignore
+
+#Docker Compose
+GreenGrocer/docker-compose.yml
+
+#Docker Compose
+GreenGrocer/docker-compose.override.yml
+
+#Docker Compose
+GreenGrocer/docker-compose.prod.yml
+
+#Docker Compose
+GreenGrocer/docker-compose.dev.yml
+
+#Docker Compose
+GreenGrocer/docker-compose.test.yml
+
+#Docker Compose
+GreenGrocer/docker-compose.staging.yml
+
+#Docker Compose
